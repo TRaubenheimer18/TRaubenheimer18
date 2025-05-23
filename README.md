@@ -68,13 +68,13 @@ ___
 - Conventional
 
 ### Reflection:
-- During this module, I learnt that a common challenge in professional development is the mismatch between and individual's personality traits and the organizational culture, which can hinder performance and satisfaction. While doing a group assignment, I noticed that while i contributed good ideas, I often clashed with my group members on how to execute them.
+- During this module, I learnt that a common challenge in professional development is the mismatch between and individual's personality traits and the organizational culture, which can hinder performance and satisfaction. While doing a group assignment, I noticed that while I contributed good ideas, I often clashed with my group members on how to execute them.
 
-- As discussed in this topic, you need to evaluate personality traits using a structured framework to identify compatible career paths and work environments, so that is exactly what I did. I used the personality assessment tools provided in the module which revealed that i thrive in leadership and creative roles, but I need to be mindful of how assertiveness can come across to others. 
+- As discussed in this topic, you need to evaluate personality traits using a structured framework to identify compatible career paths and work environments, so that is exactly what I did. I used the personality assessment tools provided in the module which revealed that I thrive in leadership and creative roles, but I need to be mindful of how assertiveness can come across to others. 
 
 - The module emphasized that personality affects communication, teamwork, leadership, and decision-making styles, so the action I took was to adapt my communication style during group interactions and actively listen in order to foster collaboration.
 
-- This topic provided individuals with insights into roles and environments that align with their characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
+- This topic provided me with insights into roles and environments that align with my characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
 
 ___
 ## Create a CV
@@ -85,7 +85,7 @@ ___
 ### Reflection:
 - Job applicants often fail to secure interviews, not due to a lack of qualifications, but because their CV's are not professionally structured to highlight their strengths. This situation made me realise that my CV was not effectively showcasing my value to employers.
 
-- I was tasked to improve my CV so that it reflected the necessary and correct information, such as my unique skills, experiences, and alignment with employer expectations. Appling the CV-enhancement principles from the module, I concentrated on viewing my CV as a marketing tool rather than just a list of responsibilities. 
+- I was tasked to improve my CV so that it reflected the necessary and correct information, such as my unique skills, experiences, and alignment with employer expectations. Applying the CV-enhancement principles from the module, I concentrated on viewing my CV as a marketing tool rather than just a list of responsibilities. 
 
 - The work-readiness module taught best practices for CV creation, including the organization of key sections such as contact information, education, work experience, and skills, as well as optional sections like a personal summary. My actions included tailoring each section of my CV using action verbs. I also added a profile statement as well as a skills section based on my adaptive and technical capabilities.
 
@@ -100,8 +100,7 @@ ___
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
-- My task was to ensure that my CV submission met professional standards. both in format and delivery and ensuring it reflects technical and soft skills. I then referred back to the module's lesson on email etiquette and asynchronous communication.
-
+- My task was to ensure that my CV submission met professional standards, both in format and delivery and ensuring it reflects technical and soft skills.
 ___
 ## Conclusion
 
