@@ -82,6 +82,8 @@ ___
 > **Completed the quiz at the end of the topic and made changes to [my existing CV](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/First%20CV.pdf) based on the principles I learnt in this topic.**
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/create%20a%20cv.png)
 [**My Updated CV**](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Teyana%20Raubenheimer%20CV%20.pdf)
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Updated%20CV.png)
+
 ### Reflection:
 - Job applicants often fail to secure interviews, not due to a lack of qualifications, but because their CV's are not professionally structured to highlight their strengths. This situation made me realise that my CV was not effectively showcasing my value to employers.
 
@@ -95,12 +97,16 @@ ___
 ## CV Submission
 ### Evidence:
 > **Submitted [My CV](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Teyana%20Raubenheimer%20CV%20.pdf) after making the necessary changes to improve it and ensure it is well-structured.**
-![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Updated%20CV.png)
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/CV%20submission.png)
 
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
 - My task was to ensure that my CV submission met professional standards, both in format and delivery and ensuring it reflects technical and soft skills.
+
+- Topics that were also covered in this module was email etiquette, file formatting, and professional communication, by providing detailed instructions on how to write concise and respectful cover messages, include clear subject lines, proofread attachments, and use formal sign-offs.
+
+- I learnt that by submitting a CV with a professional tone and correct format, your overall impression on employers increases.  It signals preparedness, reliability, and communication competence.
 ___
 ## Conclusion
 
